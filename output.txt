@@ -1,0 +1,4 @@
+- mainAutomation.py, File Type: Python script, ASCII text executable, with CRLF line terminators
+- output.txt, File Type: ASCII text, with CRLF line terminators
+- test1.docx, File Type: Microsoft Word 2007+
+- test2.docx, File Type: Microsoft Word 2007+
